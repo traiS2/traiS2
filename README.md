@@ -23,6 +23,6 @@
 ### Profile details card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=traiS2&theme=nord_bright)
 
-| ### Top languages used in repository card   |      ### Top languages in commits card      |
-|----------|-------------|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=traiS2&theme=nord_bright) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=traiS2&theme=nord_bright) |
+Top languages used in repository card   |      ### Top languages in commits car
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=traiS2&theme=nord_bright) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=traiS2&theme=nord_bright)
