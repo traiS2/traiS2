@@ -20,9 +20,6 @@
 <td></td>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="20"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> </a> </p>
 
-### Profile details card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=traiS2&theme=nord_bright)
-
-Top languages used in repository card   |      ### Top languages in commits car
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=traiS2&theme=nord_bright) |  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=traiS2&theme=nord_bright)
