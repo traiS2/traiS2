@@ -5,10 +5,7 @@
 </h3>
 <p align="center"> 
   <samp>
-    <br>
     「 I am a full stack web appplication developer from <b>Viet Nam</b> 」
-    <br>
-    <br>
   </samp>
 </p>
 ## Programming Languages
