@@ -22,3 +22,38 @@
 <td></td>
   </tr>
 </table>
+
+### Profile details card
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=traiS2&theme=nord_bright)
+
+`http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={traiS2}&theme={nord_bright}`
+- Accept url parameters
+  - theme
+    - Theme name
+  - username
+    - Username
+### Top languages used in repository card
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=traiS2&theme=nord_bright)
+
+`http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={traiS2}&theme={nord_bright}&exclude={exclude}`
+- Accept url parameters
+  - theme
+    - Theme name
+  - username
+    - Username
+  - exclude: 
+    - A comma separated list of languages to exclude, e.g., exclude=java,rust
+    - You can found the supported languages in [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
+
+### Top languages in commits card
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=traiS2&theme=nord_bright)
+
+`http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={traiS2}&theme={nord_bright}&exclude={exclude}`
+- Accept url parameters
+  - theme
+    - Theme name
+  - username
+    - Username
+  - exclude: 
+    - A comma separated list of languages to exclude, e.g., exclude=java,rust
+    - You can found the supported languages in [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
